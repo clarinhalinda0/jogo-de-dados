@@ -18,4 +18,4 @@
 ![Diagrama de classes](./imagens/diagrama_casos_uso.png)
 
 ## diagrama de casos de uso
-![Diagrama de Casos de Uso](./imagens/diagrama_casos_uso.png)
+![Diagrama de Casos de Uso]([./imagens/diagrama_casos_uso.png](https://github.com/clarinhalinda0/jogo-de-dados/blob/9b282c5441610fafec97cbfd4dc6368b3dad377a/casosusojgdados.drawio.png))
