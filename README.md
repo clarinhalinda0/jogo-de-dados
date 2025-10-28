@@ -21,7 +21,5 @@
 
 ## diagrama de casos de uso
 <p align="center">
-  <img src="https://raw.githubusercontent.com/clarinhalinda0/jogo-de-dados/9b282c5441610fafec97cbfd4dc6368b3dad377a/casosusojgdados.drawio.png" 
-       alt="Diagrama de Casos de Uso" 
-       width="700">
+  <img src="./casosusojgdados.drawio.png" alt="Diagrama de Casos de Uso" width="700">
 </p>
