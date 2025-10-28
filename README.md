@@ -14,10 +14,14 @@
 | **RF09** | O sistema deve permitir ao usuário visualizar o resultado dos jogos após o encerramento.      | Média      |
 | **RF10** | O sistema deve atualizar automaticamente o saldo do usuário com base no resultado da aposta.  | Alta       |
 
-<h2>Diagrama de classes</h2>
+## diagrama de classes
 <p align="center">
   <img src="./classes%20jg%20de%20dados.drawio.png" alt="Diagrama de classes" width="700">
 </p>
 
 ## diagrama de casos de uso
-![Diagrama de Casos de Uso]([./imagens/diagrama_casos_uso.png](https://github.com/clarinhalinda0/jogo-de-dados/blob/9b282c5441610fafec97cbfd4dc6368b3dad377a/casosusojgdados.drawio.png))
+<p align="center">
+  <img src="https://raw.githubusercontent.com/clarinhalinda0/jogo-de-dados/9b282c5441610fafec97cbfd4dc6368b3dad377a/casosusojgdados.drawio.png" 
+       alt="Diagrama de Casos de Uso" 
+       width="700">
+</p>
