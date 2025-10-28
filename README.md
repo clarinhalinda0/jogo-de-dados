@@ -15,7 +15,7 @@
 | **RF10** | O sistema deve atualizar automaticamente o saldo do usuário com base no resultado da aposta.  | Alta       |
 
 ## diagrama de classes
-![Diagrama de Classes]('./classes_jg_de_dados.drawio.png')
+![Diagrama de Classes](classes_jg_de_dados.drawio.png')
 
 ## diagrama de casos de uso
 <p align="center">
